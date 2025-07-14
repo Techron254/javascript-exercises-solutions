@@ -25,6 +25,7 @@ const fibonacci = function(num) {
     else{
     return result[num-1];
     }
+    return result;
 };
 
 // Do not edit below this line
